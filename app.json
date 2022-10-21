@@ -17,12 +17,12 @@
 		"SUDO": {
 			"description": "admin",
 			"required": false,
-			"value": "null"
+			"value": "254711107992"
 		},
 		"PREFIX": {
 			"description": "prefix, check for more",
 			"required": false,
-			"value": "."
+			"value": ". , ! #"
 		},
 		"SESSION_ID": {
 			"description": "session id",
@@ -32,7 +32,7 @@
 		"STICKER_PACKNAME": {
 			"description": "sticker pack info",
 			"required": false,
-			"value": "❤️,LyFE"
+			"value": "⇝͜͡✪ஓீ͜ムɱαʅιƙ,⇝͜͡✪ஓீ͜ムɱαʅιƙ"
 		},
 		"HEROKU_APP_NAME": {
 			"description": "Heroku app name, same as above entered.",
@@ -55,7 +55,7 @@
 		"WARN_LIMIT": {
 			"description": "Maximum number of wanings to a person.",
 			"required": false,
-			"value": "3"
+			"value": "1"
 		},
 		"FORCE_LOGOUT": {
 			"description": "In Some scenario have to logout web, Only such case make this true and back to false after logout.",
@@ -70,22 +70,22 @@
 		"ANTILINK_MSG": {
 			"description": "Message send when antilink and action is kick.",
 			"required": false,
-			"value": "_Antilink Detected &mention kicked_"
+			"value": "_Antilink Detected &mention kicked_(kumamako)"
 		},
 		"ANTISPAM_MSG": {
 			"description": "Message send when antispam.",
 			"required": false,
-			"value": "_Antispam Detected &mention kicked_"
+			"value": "_Antispam Detected &mention kicked_(kumamako)"
 		},
 		"ANTIWORDS_MSG": {
 			"description": "Message send when antiword.",
 			"required": false,
-			"value": "_Antiword Detected &mention kicked_"
+			"value": "_Antiword Detected &mention kicked_(kumamako)"
 		},
 		"ANTIWORDS": {
 			"description": "words that not allowed in chats.",
 			"required": false,
-			"value": "word1,word2,word3"
+			"value": "kumamako,malaya,hoe,mkundu,ghasia"
 		},
 		"SS_TOKEN": {
 			"description": "token from https://app.screenshotapi.net/dashboard",
@@ -95,7 +95,7 @@
 		"REJECT_CALL": {
 			"description": "auto reject call, if set as true",
 			"required": false,
-			"value": "false"
+			"value": "true"
 		}
 	},
 	"addons": [
