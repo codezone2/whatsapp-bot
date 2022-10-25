@@ -85,7 +85,7 @@
 		"ANTIWORDS": {
 			"description": "words that not allowed in chats.",
 			"required": false,
-			"value": "kumamako,malaya,hoe,mkundu,ghasia,kumamako,umbwa,pussy"
+			"value": "kumamako,malaya,hoe,mkundu,ghasia,kumamako,umbwa,pussy,save for save,maumbwa"
 		},
 		"SS_TOKEN": {
 			"description": "token from https://app.screenshotapi.net/dashboard",
