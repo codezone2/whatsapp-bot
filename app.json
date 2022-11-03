@@ -17,12 +17,12 @@
 		"SUDO": {
 			"description": "admin",
 			"required": false,
-			"value": "254711107992"
+			"value": "254735306047"
 		},
 		"PREFIX": {
 			"description": "prefix, check for more",
 			"required": false,
-			"value": ". , ! #"
+			"value": "!"
 		},
 		"SESSION_ID": {
 			"description": "session id",
@@ -32,7 +32,7 @@
 		"STICKER_PACKNAME": {
 			"description": "sticker pack info",
 			"required": false,
-			"value": "⇝͜͡✪ஓீ͜ムɱαʅιƙ,⇝͜͡✪ஓீ͜ムɱαʅιƙ"
+			"value": "⦓ Malik™ ⦔,⦓ Malik™ ⦔"
 		},
 		"HEROKU_APP_NAME": {
 			"description": "Heroku app name, same as above entered.",
