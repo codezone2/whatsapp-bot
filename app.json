@@ -1,8 +1,6 @@
 {
-  "name": "levanter",
- "description": "",
-  "repository": " lyfe00011/whatsapp-bot-md",
-  "logo": "https://i.imgur.com/C9OsDtj.mp4",
+	"name": "levanter",
+	"description": "",
 	"keywords": [],
 	"stack": "container",
 	"env": {
