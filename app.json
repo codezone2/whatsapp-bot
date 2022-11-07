@@ -1,6 +1,8 @@
 {
-	"name": "levanter",
-	"description": "",
+  "name": "levanter",
+ "description": "",
+  "repository": " lyfe00011/whatsapp-bot-md",
+  "logo": "https://i.imgur.com/C9OsDtj.mp4",
 	"keywords": [],
 	"stack": "container",
 	"env": {
@@ -55,7 +57,7 @@
 		"WARN_LIMIT": {
 			"description": "Maximum number of wanings to a person.",
 			"required": false,
-			"value": "1"
+			"value": "5"
 		},
 		"FORCE_LOGOUT": {
 			"description": "In Some scenario have to logout web, Only such case make this true and back to false after logout.",
@@ -95,7 +97,7 @@
 		"REJECT_CALL": {
 			"description": "auto reject call, if set as true",
 			"required": false,
-			"value": "true"
+			"value": "false"
 		}
 	},
 	"addons": [
